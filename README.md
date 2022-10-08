@@ -1,6 +1,5 @@
 <h1 align='center' font-size="25px"> Welcome to Shruti Jethwa's Profile🙋🏻‍♀️ </h1>
-
-![female-developer-vector](https://user-images.githubusercontent.com/77672199/194723060-2c88c51b-3c6c-4c08-84c3-37e3965f946e.jpg)
+<img src="https://user-images.githubusercontent.com/77672199/194724016-5ea1e47b-0468-4966-af18-6f1a59cc127b.jpg" width="2%" height="2%" align="center"></img>
                                                               
 
 - 🔭 I’m currently working on Android Devlopment
@@ -16,3 +15,4 @@
 
 
    
+
