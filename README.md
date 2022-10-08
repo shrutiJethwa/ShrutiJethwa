@@ -1,4 +1,5 @@
-<h1> Welcome to Shruti Jethwa's Profile🙋🏻‍♀️ </h1>
+<h1 align='center' font-size="25px"> Welcome to Shruti Jethwa's Profile🙋🏻‍♀️ </h1>
+
 ![female-developer-vector](https://user-images.githubusercontent.com/77672199/194723060-2c88c51b-3c6c-4c08-84c3-37e3965f946e.jpg)
                                                               
 
