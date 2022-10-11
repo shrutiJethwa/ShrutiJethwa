@@ -19,7 +19,10 @@
      
 [![@shrutijethwa's Holopin board](https://holopin.io/api/user/board?user=shrutijethwa)](https://holopin.io/@shrutijethwa)
 
-
+<hr weight="bold"></hr>
+<footer>
+  <p>Created by Shruti Jethwa</p>
+</footer>
 
    
 
