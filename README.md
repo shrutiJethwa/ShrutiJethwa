@@ -1,5 +1,5 @@
 <h1 align='center' font-size="25px"> Welcome to Shruti Jethwa's Profile🙋🏻‍♀️ </h1>
-<img src="https://user-images.githubusercontent.com/77672199/194724016-5ea1e47b-0468-4966-af18-6f1a59cc127b.jpg" width="25%" height="25%" text-align='center' margin-left='auto' margin-right='auto'  display='block'></img>
+<img src="https://user-images.githubusercontent.com/77672199/194724016-5ea1e47b-0468-4966-af18-6f1a59cc127b.jpg" width="25%" height="25%" align='right' display='block'></img>
                                                               
 
 - 🔭 I’m currently working on Android Devlopment
