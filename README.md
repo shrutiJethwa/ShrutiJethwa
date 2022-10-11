@@ -10,13 +10,14 @@
 
 
 
-   <a href="https://www.linkedin.com/in/shruti-jethwa-993719201/">
- <img src="https://user-images.githubusercontent.com/77672199/194723416-fff95e1f-4b3c-4ded-9480-21b746d820b5.png" width="20px" height="1%"></img></a>
+  
+ <img src="https://user-images.githubusercontent.com/77672199/194723416-fff95e1f-4b3c-4ded-9480-21b746d820b5.png" width="20px" height="1%"></img>
+ [Linkdin](https://www.linkedin.com/in/shruti-jethwa-993719201/)
      
-    <img src="https://user-images.githubusercontent.com/77672199/194723472-81b062fc-c9ce-4c73-8f72-c3662e68b292.png" width="20px" height="1%"></img>
+ <img src="https://user-images.githubusercontent.com/77672199/194723472-81b062fc-c9ce-4c73-8f72-c3662e68b292.png" width="20px" height="1%"></img>
      [Gmail](shrutijethwa10@gmail.com)
      
-     [![@shrutijethwa's Holopin board](https://holopin.io/api/user/board?user=shrutijethwa)](https://holopin.io/@shrutijethwa)
+[![@shrutijethwa's Holopin board](https://holopin.io/api/user/board?user=shrutijethwa)](https://holopin.io/@shrutijethwa)
 
 
 
