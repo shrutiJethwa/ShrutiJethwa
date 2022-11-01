@@ -1,6 +1,6 @@
 <h1 align='center' font-size="25px"> Welcome to Shruti Jethwa's Profile🙋🏻‍♀️ </h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<img src="D:\Shruti Jethwa\VIT\image_processing20210301-3601-w1fbuc.gif" width="25%" height="25%" align='right' display='block'></img>
+<img src="D:\Shruti Jethwa\VIT\image_processing20210301-3601-w1fbuc.gif" width="100%" height="100%" align='right' display='block'></img>
                                                               
 
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shrutijethwa10@gmail.com**
 
-- 📄 Know about my experiences [file:///D:/Shruti%20Jethwa/Resume/Shruti_Jethwa_VIT.pdf](file:///D:/Shruti%20Jethwa/Resume/Shruti_Jethwa_VIT.pdf)
+- 📄 Know about my experiences [Resume](D:/Shruti%20Jethwa/Resume/Shruti_Jethwa_VIT.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
