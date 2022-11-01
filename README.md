@@ -1,13 +1,11 @@
 <h1 align='center' font-size="25px"> Welcome to Shruti Jethwa's Profile🙋🏻‍♀️ </h1>
-<!-- <img src="https://user-images.githubusercontent.com/77672199/194724016-5ea1e47b-0468-4966-af18-6f1a59cc127b.jpg" width="25%" height="25%" align='right' display='block'></img> -->
+<h3 align="center">A passionate Android developer from India</h3>
+<img src="https://user-images.githubusercontent.com/77672199/194724016-5ea1e47b-0468-4966-af18-6f1a59cc127b.jpg" width="25%" height="25%" align='right' display='block'></img>
                                                               
 
 
-<h3 align="center">A passionate Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutijethwa&label=Profile%20views&color=0e75b6&style=flat" alt="shrutijethwa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutijethwa" alt="shrutijethwa" /></a> </p>
 
 - 🔭 I’m currently working on **Android Devlopment**
 
@@ -31,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutijethwa&show_icons=true&locale=en&layout=compact" alt="shrutijethwa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutijethwa&show_icons=true&locale=en" alt="shrutijethwa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutijethwa&" alt="shrutijethwa" /></p>
