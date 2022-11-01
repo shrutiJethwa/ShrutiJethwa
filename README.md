@@ -1,6 +1,6 @@
 <h1 align='center' font-size="25px"> Welcome to Shruti Jethwa's Profile🙋🏻‍♀️ </h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<img src="[D:\Shruti Jethwa\VIT\image_processing20210301-3601-w1fbuc.gif](https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)" width="100%" height="100%" align='right' display='block'></img>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw0M5v6CX7cBbwVh4HKP1Mqu&ust=1667401758534000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJiTzOqhjfsCFQAAAAAdAAAAABAE" width="100%" height="100%" align='right' display='block'></img>
                                                               
 
 
