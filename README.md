@@ -1,6 +1,6 @@
 <h1 align='center' font-size="25px"> Welcome to Shruti Jethwa's Profile🙋🏻‍♀️ </h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<img src="https://media.tenor.com/KMFQut1j8KwAAAAd/scaler-create-impact.gif" width="100%" height="100%" align='right' display='block'></img>
+<img src="https://media.tenor.com/KMFQut1j8KwAAAAd/scaler-create-impact.gif" width="25%" height="25%" align='right' display='block'></img>
                                                               
 
 
