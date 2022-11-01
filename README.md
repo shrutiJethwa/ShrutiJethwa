@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shrutijethwa10@gmail.com**
 
-- 📄 Know about my experiences [Resume](Shruti%20Jethwa/Resume/Shruti_Jethwa_VIT.pdf)
+- 📄 Know about my experiences [Resume][(Shruti%20Jethwa/Resume/Shruti_Jethwa_VIT.pdf)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
