@@ -1,6 +1,6 @@
 <h1 align='center' font-size="25px"> Welcome to Shruti Jethwa's Profile🙋🏻‍♀️ </h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<img src="https://user-images.githubusercontent.com/77672199/194724016-5ea1e47b-0468-4966-af18-6f1a59cc127b.jpg" width="25%" height="25%" align='right' display='block'></img>
+<img src="![image_processing20210301-3601-w1fbuc](https://user-images.githubusercontent.com/77672199/199267204-9eeb216b-9733-4af6-81ab-67e4ab3846b4.gif)" width="25%" height="25%" align='right' display='block'></img>
                                                               
 
 
